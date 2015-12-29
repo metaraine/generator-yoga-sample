@@ -1,0 +1,24 @@
+{
+  "name": "generator-yoga-sample",
+  "version": "0.0.0",
+  "description": "Sample yoga generator.",
+  "files": [
+    "app"
+  ],
+  "license": "ISC",
+  "repository": "https://github.com/metaraine/generator-yoga-sample",
+  "author": "metaraine",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "camelize": "^1.0.0",
+    "chalk": "^1.1.1",
+    "gulp-striate": "^1.0.0",
+    "lodash.assign": "^3.2.0",
+    "lodash.compact": "^3.0.0",
+    "prefixnote": "^1.0.0",
+    "yeoman-generator": "^0.20.2"
+  }
+}

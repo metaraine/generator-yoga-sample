@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    {
+      "type": "text",
+      "name": "project",
+      "message": "project name"
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "message": "project description"
+    },
+    {
+      "type": "text",
+      "name": "username",
+      "message": "github username",
+      "store": true
+    },
+    {
+      "type": "text",
+      "name": "keywords",
+      "message": "keywords (comma-separated)"
+    },
+    {
+      "type": "text",
+      "name": "repo",
+      "message": "repository",
+      "store": true
+    },
+    {
+      "type": "text",
+      "name": "license",
+      "message": "license",
+      "default": "ISC",
+      "store": true
+    },
+    {
+      "type": "confirm",
+      "name": "js",
+      "message": "Does your project use Javascript?",
+      "store": true
+    },
+    {
+      "type": "confirm",
+      "name": "css",
+      "message": "Does your project use css?",
+      "store": true
+    }
+  ]
+}
