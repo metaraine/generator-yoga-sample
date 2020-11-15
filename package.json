@@ -1,15 +1,15 @@
 {
-  "name": "generator-yoga-sample",
+  "name": "generator-yogini-sample",
   "version": "0.0.0",
-  "description": "Sample yoga generator.",
+  "description": "Sample yogini generator.",
   "files": [
     "app"
   ],
   "license": "ISC",
-  "repository": "https://github.com/metaraine/generator-yoga-sample",
-  "author": "metaraine",
+  "repository": "https://github.com/raineorshine/generator-yogini-sample",
+  "author": "raineorshine",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=10"
   },
   "dependencies": {
     "bluebird": "^2.9.34",

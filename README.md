@@ -1,9 +1,9 @@
-# generator-yoga-sample
+# generator-yogini-sample
 
-This is a sample [yoga](https://github.com/metaraine/generator-yoga) generator.
+This is a sample [yogini](https://github.com/raineorshine/yogini) generator.
 
-The prompts in [yoga.json](https://github.com/metaraine/generator-yoga-sample/blob/master/app/yoga.json) drive the [files that are copied](https://github.com/metaraine/generator-yoga-sample/tree/master/app/templates) as well as the [templating](https://github.com/metaraine/generator-yoga-sample/blob/master/app/templates/index.html).
+The prompts in [yogini.json](https://github.com/raineorshine/generator-yogini-sample/blob/master/app/yogini.json) drive the [files that are copied](https://github.com/raineorshine/generator-yogini-sample/tree/master/app/templates) as well as the [templating](https://github.com/raineorshine/generator-yogini-sample/blob/master/app/templates/index.html).
 
 ## License
 
-ISC © [Raine Lourie](https://github.com/metaraine)
+ISC © [Raine Revere](https://github.com/raineorshine)
